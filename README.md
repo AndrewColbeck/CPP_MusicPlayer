@@ -1,4 +1,4 @@
-# C++ Music Player for CLI
+# Music Player for CLI
 
 <p align="center">
 <img align="left" width="520px" src="https://gdurl.com/gbem" >
@@ -8,7 +8,7 @@
 Simple program which scans and catalogues Album Folders that are placed in the directory, and allows the operator to browse, select and launch songs via CLI.<br>
 
 ### Instructions:
-See Install, Compile and Run instructions [here](https://github.com/AndrewColbeck/ProgrammingNotes/wiki/CPP--Programming).<br>
+See Install, Compile and Run instructions [here](https://github.com/AndrewColbeck/ProgrammingNotes/wiki/C-Programming).<br>
 <br><br><br><br>
 Andrew Colbeck © 2018<br>
 B.Sc. Computer Science, B.A. Audio Engineering (Hons)    <br>
